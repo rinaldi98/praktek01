@@ -35,7 +35,12 @@ public class tasaksi {
         C.harga="500.000";
         C.jenis="tas santai";
         
-        
+        A.MembawaBarang();
+        System.out.println();
+        B.MembawaBarang();
+        System.out.println();
+        C.MembawaBarang();
+        System.out.println();
     }
     
 }
