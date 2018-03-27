@@ -10,5 +10,19 @@ package praktek01;
  * @author ACER
  */
 public class tas {
+    String bahan;
+    String merk;
+    String warna;
+    String harga;
+    String jenis;
     
-}
+    void MembawaBarang(){
+     System.out.println("bahan           :"+bahan);
+     System.out.println("merk            :"+merk);
+     System.out.println("warna           :"+warna);
+     System.out.println("harga           :"+harga);
+     System.out.println("jenis           :"+jenis);
+    } 
+    }
+    
+
